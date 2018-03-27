@@ -8,10 +8,10 @@ namespace OpenApp
 {
     public sealed class App
     {
-        public async void Start(string url)
+        public void Start(string url)
         {
             var uri = new Uri(url);
-            var success = await Windows.System.Launcher.LaunchUriAsync(uri);
+            Windows.System.Launcher.LaunchUriAsync(uri);
         }
 
     }
