@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="start-app-plugin" version="0.0.1">
+  <name>Start App Plugin</name>
+  <description>Starts a windows store app</description>
+  <license>Apache 2.0</license>
+  <keywords>cordova,device</keywords>
+  <js-module src="www/index.js" name="startApp">
+    <clobbers target="window.device" />
+  </js-module>
+  <platform name="windows">
+    <js-module src="src/windows/appStartPluginProxy.js" name="AppStartProxy">
+      <merges target="" />
+    </js-module>
+    <framework src="src/windows/OpenApp.winmd" custom="true"/>
+  </platform>
+</plugin>
