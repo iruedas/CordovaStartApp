@@ -15,6 +15,7 @@
     <framework src="src/windows/OpenApp.csproj" custom="true" type="projectReference" versions="10.*" />
 	<config-file target="package.windows10.appxmanifest" parent="/Package/Extensions">
       <Extension Category="windows.activatableClass.inProcessServer">
+	  <Path>OpenApp.winmd</Path>
     <InProcessServer>
       <ActivatableClass ActivatableClassId="OpenApp.App" ThreadingModel="both" />
     </InProcessServer>
