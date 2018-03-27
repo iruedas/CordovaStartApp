@@ -11,15 +11,7 @@
   <platform name="windows">
     <js-module src="src/windows/appStartPluginProxy.js" name="AppStartProxy">
       <merges target="" />
-    </js-module>
-	<config-file target="package.windows10.appxmanifest" parent="/Package/Extensions">
-      <Extension Category="windows.activatableClass.inProcessServer">	 
-    <InProcessServer>
-	<Path>OpenApp.winmd</Path>
-      <ActivatableClass ActivatableClassId="OpenApp.App" ThreadingModel="both" />
-    </InProcessServer>
-  </Extension>
-    </config-file>
+    </js-module>	
     <framework src="src/windows/OpenApp.winmd" custom="true" versions="10.*" />	
   </platform>
 </plugin>
