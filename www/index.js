@@ -1,4 +1,4 @@
-window.App = function(callback) {
+app = function(callback) {
     cordova.exec(callback, function(err) {
         callback('Error while starting the app');
     }, "App", "start", []);
