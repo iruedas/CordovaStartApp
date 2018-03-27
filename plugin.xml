@@ -19,6 +19,6 @@
     </InProcessServer>
   </Extension>
     </config-file>
-    <framework src="src/windows/bin/x64/Release/OpenApp.winmd" custom="true" versions="10.*" />	
+    <framework src="src/windows/OpenApp.winmd" custom="true" versions="10.*" />	
   </platform>
 </plugin>
