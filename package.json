@@ -1,0 +1,27 @@
+{
+  "name": "start-app-plugin",
+  "version": "0.0.1",
+  "description": "Starts a windows store app",
+  "cordova": {
+    "id": "start-app-plugin",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iruedas/CordovaStartApp.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-windows"
+  ],
+  "author": "Irving Rueda",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/iruedas/CordovaStartApp/issues"
+  },
+  "homepage": "https://github.com/iruedas/CordovaStartApp#readme"
+}
