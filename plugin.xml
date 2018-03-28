@@ -12,6 +12,6 @@
     <js-module src="src/windows/appStartPluginProxy.js" name="AppStartProxy">
       <merges target="" />
     </js-module>	
-    <framework src="src/windows/OpenApp.winmd" custom="true" versions="10.*" />	
+    <framework src="src/windows/OpenApp.csproj" type="projectReference" custom="true" versions="10.*" />	
   </platform>
 </plugin>
