@@ -1,7 +1,6 @@
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\bin\x64\Debug\OpenApp.winmd
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\bin\x64\Debug\OpenApp.pdb
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\bin\x64\Debug\OpenApp.pri
-C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\OpenApp.csprojResolveAssemblyReference.cache
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\OpenApp.csproj.CoreCompileInputs.cache
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\OpenApp.winmd
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\OpenApp.pdb

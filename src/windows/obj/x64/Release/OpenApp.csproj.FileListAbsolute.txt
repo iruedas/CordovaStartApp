@@ -17,3 +17,4 @@ C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Release\pri.resfiles
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Release\qualifiers.txt
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Release\qualifiers.txt.intermediate
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Release\MultipleQualifiersPerDimensionFound.txt
+C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Release\OpenApp.csprojResolveAssemblyReference.cache
