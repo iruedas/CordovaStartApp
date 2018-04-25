@@ -1,5 +1,3 @@
-app = function(callback) {
-    cordova.exec(callback, function(err) {
-        callback('Error while starting the app');
-    }, "App", "start", []);
+app = function(token, callback, errorCallback) {
+    cordova.exec(callback, errorCallback, "App", "start", {token: token});
 };

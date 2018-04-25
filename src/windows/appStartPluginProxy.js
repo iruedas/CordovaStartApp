@@ -2,7 +2,8 @@
 module.exports = {
     start: function(successCallback, errorCallback, strInput) {
         var app = new OpenApp.App();
-        app.start("crm:");
+		var token = strInput.token;
+        app.start(token);
     }
 }
 
