@@ -3,7 +3,7 @@ module.exports = {
     start: function(successCallback, errorCallback, strInput) {
         var app = new OpenApp.App();
 		var token = strInput.token;
-        return app.start(token);
+        app.start(token).then(function(){ successCallback(); });
     }
 }
 
