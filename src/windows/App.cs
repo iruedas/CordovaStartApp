@@ -18,7 +18,7 @@ namespace OpenApp
 			valueSet.Add("Username", username);
 
             var options = new Windows.System.LauncherOptions();
-            options.TargetApplicationPackageFamilyName = "de414e1b-1ad7-4507-9084-b1ceaf3644ee_kxj2s8fwx78be";
+            options.TargetApplicationPackageFamilyName = "de414e1b-1ad7-4507-9084-b1ceaf3644ee_9h27jkcyyvnxt";
 
             return Windows.System.Launcher.LaunchUriAsync(uri, options, valueSet).AsTask().AsAsyncOperation();
         }
