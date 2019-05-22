@@ -8,8 +8,6 @@ C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\OpenApp.winmdo
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\OpenApp.compile.pdb
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\priconfig.xml
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\priconfig.xml.intermediate
-C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\layout.resfiles
-C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\layout.resfiles.intermediate
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\resources.resfiles
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\resources.resfiles.intermediate
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\pri.resfiles
@@ -17,3 +15,10 @@ C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\pri.resfiles.i
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\qualifiers.txt
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\qualifiers.txt.intermediate
 C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\OpenApp.csprojAssemblyReference.cache
+C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\unfiltered.layout.resfiles
+C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\filtered.layout.resfiles
+C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\excluded.layout.resfiles
+C:\code\CRM\Main\Cordova\StartAppPlugin\src\windows\obj\x64\Debug\excluded.layout.resfiles.intermediate
